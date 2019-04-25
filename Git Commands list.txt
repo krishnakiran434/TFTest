@@ -1,0 +1,20 @@
+
+
+git init
+git branch
+
+notepad test1.txt
+
+git add test1.txt
+
+git commit -m "Commit Msg"
+
+git status
+
+git checkout -b develop
+
+git branch
+
+edit File by: notepad test1.txt
+
+git commit -a
